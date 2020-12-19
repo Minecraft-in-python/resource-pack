@@ -11,7 +11,7 @@ def install():
         mkdir(path.join(MCPYPATH, 'resource-pack'))
     if path.isdir(path.join(MCPYPATH, 'resource-pack', 'default')):
         rmtree(path.join(MCPYPATH, 'resource-pack', 'default'))
-    copytree(get_dir('pack'), path.join(MCPYPATH, 'resource-pack', 'default'))
+    copytree(get_dir('default'), path.join(MCPYPATH, 'resource-pack', 'default'))
     print('done')
 
 def get_dir(d):
