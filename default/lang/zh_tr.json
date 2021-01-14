@@ -2,6 +2,10 @@
     "description": "中文(繁體)",
     "game.pause_menu.back_to_game": "返回遊戲",
     "game.pause_menu.exit": "退出",
+    "game.text.build_out_of_world": [
+	    "最高建築限制是%d個方塊",
+	    "你不能在世界外放置方塊中"
+    ],
     "game.text.die": "你死了",
     "game.text.die.fall_into_void": "%s 墜入了虛空",
     "game.text.die.no_oxygen": "%s沒有氧氣可以呼吸了",

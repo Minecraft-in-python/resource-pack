@@ -2,6 +2,10 @@
     "description": "Español (España)",
     "game.pause_menu.back_to_game": "Volver al juego",
     "game.pause_menu.exit": "Salir",
+    "game.text.build_out_of_world": [
+	    "El límite máximo de generación es de %d bloques",
+	    "No puedes construir fuera del mundo"
+    ],
     "game.text.die": "As muerto",
     "game.text.die.fall_into_void": "%s a caído en el vacío",
     "game.text.die.no_oxygen": "%s No puede respirar",
