@@ -12,7 +12,7 @@
     "game.text.loading": "初始化...",
     "game.text.position": "位置: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
-        "Minecraft %s",
+        "Minecraft %s (%s)",
         "XYZ: %.1f, %.1f, %.1f",
         "ROT: %.2f, %.2f",
         "MEM: %.2fMB",
