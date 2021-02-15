@@ -8,7 +8,6 @@
     ],
     "game.text.die": "You die",
     "game.text.die.fall_into_void": "%s falling into the void",
-    "game.text.die.no_oxygen": "%s don't have oxygen to breath",
     "game.text.loading": "Loading...",
     "game.text.position": "position: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [

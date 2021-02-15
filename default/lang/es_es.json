@@ -8,7 +8,6 @@
     ],
     "game.text.die": "As muerto",
     "game.text.die.fall_into_void": "%s a caído en el vacío",
-    "game.text.die.no_oxygen": "%s No puede respirar",
     "game.text.loading": "Cargando...",
     "game.text.position": "Posición: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
