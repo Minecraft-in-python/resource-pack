@@ -4,14 +4,16 @@ from os import environ, mkdir, path
 from shutil import copytree, rmtree
 from sys import platform
 
+VERSION = '0.3.2'
+
 def install():
     print('copy resource pack... ', end='')
     MCPYPATH = search_mcpy()
     if not path.isdir(path.join(MCPYPATH, 'resource-pack')):
         mkdir(path.join(MCPYPATH, 'resource-pack'))
-    if path.isdir(path.join(MCPYPATH, 'resource-pack', 'default')):
-        rmtree(path.join(MCPYPATH, 'resource-pack', 'default'))
-    copytree(get_dir('default'), path.join(MCPYPATH, 'resource-pack', 'default'))
+    if path.isdir(path.join(MCPYPATH, 'resource-pack', 'default-%s' % VERSION)):
+        rmtree(path.join(MCPYPATH, 'resource-pack', 'default-%s' % VERSION))
+    copytree(get_dir('default'), path.join(MCPYPATH, 'resource-pack', 'default-%s' % VERSION))
     print('done')
 
 def get_dir(d):

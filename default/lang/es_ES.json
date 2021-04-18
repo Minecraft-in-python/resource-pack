@@ -11,11 +11,11 @@
     "game.text.loading": "Cargando...",
     "game.text.position": "Posición: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
-        "Minecraft %s (%s)",
-        "XYZ: %.1f, %.1f, %.1f",
-        "ROT: %.2f, %.2f",
-        "MEM: %.2fMB",
-        "FPS: %d"
+        "Minecraft %(version) (%(info))",
+        "XYZ: %(xyz)",
+        "ROT: %(rot)",
+        "MEM: %(mem)MB",
+        "FPS: %(fps)"
     ],
     "launcher.delete": "Eliminar",
     "launcher.dialog.text.delete": "¿Desea eliminar: %s, permanentemente?",

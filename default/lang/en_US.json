@@ -9,13 +9,12 @@
     "game.text.die": "You die",
     "game.text.die.fall_into_void": "%s falling into the void",
     "game.text.loading": "Loading...",
-    "game.text.position": "position: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
-        "Minecraft %s (%s)",
-        "XYZ: %.1f, %.1f, %.1f",
-        "ROT: %.2f, %.2f",
-        "MEM: %.2fMB",
-        "FPS: %d"
+        "Minecraft %(version) (%(info))",
+        "XYZ: %(xyz)",
+        "ROT: %(rot)",
+        "MEM: %(mem)MB",
+        "FPS: %(fps)"
     ],
     "launcher.delete": "Delete",
     "launcher.dialog.text.delete": "It will delete %s for a long time?",

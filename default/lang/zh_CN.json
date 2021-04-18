@@ -11,11 +11,11 @@
     "game.text.loading": "初始化...",
     "game.text.position": "位置: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
-        "Minecraft %s (%s)",
-        "XYZ: %.1f, %.1f, %.1f",
-        "ROT: %.2f, %.2f",
-        "MEM: %.2fMB",
-        "FPS: %d"
+        "Minecraft %(version) (%(info))",
+        "XYZ: %(xyz)",
+        "ROT: %(rot)",
+        "MEM: %(mem)MB",
+        "FPS: %(fps)"
     ],
     "launcher.delete": "删除",
     "launcher.dialog.text.delete": "这将删除 %s 存档(很长时间)?",
