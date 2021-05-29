@@ -9,7 +9,6 @@
     "game.text.die": "你死了",
     "game.text.die.fall_into_void": "%s 墜入了虛空",
     "game.text.loading": "初始化...",
-    "game.text.position": "位置: (%.1f, %.1f, %.1f) %-4d fps",
     "game.text.debug": [
         "Minecraft %(version) (%(info))",
         "XYZ: %(xyz)",
