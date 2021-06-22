@@ -40,6 +40,7 @@
 	"game.text.die.fall_into_void": "%s falling into the void",
 	"game.text.loading": "Loading...",
 	"game.text.respawn": "Respawn",
+	"general.seed": "Seed",
 	"start.delete": "Delete",
 	"start.dialog.text.delete": "It will delete %s for a long time?",
 	"start.dialog.text.name": "Name:",

@@ -40,6 +40,7 @@
 	"game.text.die.fall_into_void": "%s 坠入了虚空",
 	"game.text.loading": "初始化...",
 	"game.text.respawn": "重生",
+	"general.seed": "世界种子",
 	"start.delete": "删除",
 	"start.dialog.text.delete": "这将删除 %s 存档(很长时间)?",
 	"start.dialog.text.name": "存档名:",
