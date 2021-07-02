@@ -1,5 +1,5 @@
 {
-  "command.args.block.wrong": "No es un bloque: '%s'",
+	"command.args.block.wrong": "No es un bloque: '%s'",
 	"command.args.boolean.wrong": "No se puede convertir '%s' en booleano",
 	"command.args.number.is_big": "El número %s es mayor que %s",
 	"command.args.number.is_small": "El número %s es menor que %s",
